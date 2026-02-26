@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="https://komarev.com/ghpvc/?username=lrikz&color=464646&style=flat&label=👀&abbreviated=true" height="18" />
+  <img src="https://komarev.com/ghpvc/?username=lrikz&color=464646&style=flat&label=views&abbreviated=true" height="18" />
   
   <br/><br/>
 
