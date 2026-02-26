@@ -6,6 +6,14 @@
   <br/><br/>
 
 
+
+<a href="https://discord.com/users/762338842874347520">
+    <img src="https://lanyard.cnrad.dev/api/762338842874347520?bg=464646&showDisplayName=true&theme=dark&borderRadius=45px" />
+  </a>
+
+  <br/><br/>
+
+
   <a href="https://discord.com/users/927061241128681533">
     <img src="https://lanyard.cnrad.dev/api/927061241128681533?bg=464646&showDisplayName=true&theme=dark&borderRadius=45px" />
   </a>
