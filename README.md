@@ -13,8 +13,8 @@
   <br/><br/>
 
  
-  <a href="https://discord.com/users/927061241128681533">
-    <img src="https://lanyard.cnrad.dev/api/927061241128681533?bg=464646&showDisplayName=true&theme=dark&hideSpotify=true&borderRadius=45px" />
+  <a href="https://discord.com/users/1465015141933518932">
+    <img src="https://lanyard.cnrad.dev/api/1465015141933518932?bg=464646&showDisplayName=true&theme=dark&hideSpotify=true&borderRadius=45px" />
   </a>
 
 </div>
